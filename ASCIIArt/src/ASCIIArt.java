@@ -15,7 +15,6 @@
  */
 
 // YOUR CODE GOES HERE :)
-
 public class ASCIIArt{
 	
 	public static void printDash(){
